@@ -28,8 +28,21 @@
 .triple img {
 margin-left: 20%;
 }
+.monosection {
+  height: 1200px;
+  width: 100%;
+}
 .monoblock img {
-  width: 50%;
+  width: 70%;
+}
+.containerimg {
+  margin: 20px auto 10px;
+  background-color: #0080ff;
+  width: 20%;
+  border-radius: 50%;
+}
+#flex {
+  border-radius: 50%;
 }
 .description {
   text-align: center;
