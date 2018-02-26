@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding: 0;
+}
+.section {
+  width: 100%;
+  height: 400px;
+}
+.container {
+  width: 75%;
+  margin: auto;
+  font-family: arial;
+  text-align: center;
+}
+.blockelement {
+  margin-top: 20px;
+  width: 33%;
+  float: left;
+}
+.double {
+  width: 50%;
+}
+.double img {
+  width: 50%;
+  height: 150px;
+}
+.triple img {
+margin-left: 20%;
+}
+.mono img {
+  width: 50%;
+}
+
+.description {
+  text-align: center;
+}
+
+
+
+.gray {
+  background-color: #f9f9f9;
+}
