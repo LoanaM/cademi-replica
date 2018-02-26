@@ -28,10 +28,9 @@
 .triple img {
 margin-left: 20%;
 }
-.mono img {
+.monoblock img {
   width: 50%;
 }
-
 .description {
   text-align: center;
 }
