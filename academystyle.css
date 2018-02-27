@@ -53,13 +53,20 @@ margin-left: 20%;
 }
 
 @media screen and (max-width:480px) {
+  .section {
+    height:700px;
+  }
   .double {
     width: 100%;
   }
   .double img {
     width: 100%;
-
-
-
-
+  }
+  .blockelement {
+      margin-top: 20px;
+      width: 100%;
+  }
+  .monosection h1 {
+    margin-top: 50px;
+  }
 }
