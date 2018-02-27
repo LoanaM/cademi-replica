@@ -48,8 +48,18 @@ margin-left: 20%;
   text-align: center;
 }
 
-
-
 .gray {
   background-color: #f9f9f9;
+}
+
+@media screen and (max-width:480px) {
+  .double {
+    width: 100%;
+  }
+  .double img {
+    width: 100%;
+
+
+
+
 }
